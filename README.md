@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinmiri02&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinmiri02" /> </p>
 
-- 🔭 I’m currently working on **a Tailwind project**
+- 🔭 I’m currently working on **a Vue project**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Vue**, **Bootstrap**
 
 - 📫 How to reach me **hossein.miri.dev@gmail.com**
 
