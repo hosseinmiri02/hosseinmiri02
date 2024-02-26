@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Vue project**
 
-- 🌱 I’m currently learning **Vue**, **Bootstrap**
+- 🌱 I’m currently learning **Vue**, **Vuetify**
 
 - 📫 How to reach me **hossein.miri.dev@gmail.com**
 
